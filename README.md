@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a JVM developer currently working at Allegro, where I primarily use Kotlin and a bit of Scala. I have extensive experience building backend systems for telecommunications software — at Ericsson and Motorola Solutions — where I worked mainly in Java. My stack also includes Spring Boot, Node.js, Angular, Docker, Kubernetes, and Azure pipelines.
+I'm a JVM developer currently working at Allegro, where I primarily use Kotlin and a bit of Scala. I have extensive experience building backend systems for telecommunications software — at Ericsson and Motorola Solutions — where I worked mainly in Java. My stack also includes Spring Boot, Python, Angular, Docker, Kubernetes, and Azure pipelines.
 
 ➡️ [More about me at halun.pl/about](https://halun.pl/about)
 
