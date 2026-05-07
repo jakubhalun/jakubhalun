@@ -11,6 +11,7 @@ I'm a JVM developer currently working at Allegro, where I primarily use Kotlin a
 - **[azure-service-bus-consumer-example](https://github.com/jakubhalun/azure-service-bus-consumer-example)** — Example Java + Spring Boot Azure Service Bus consumer.
 - **[SB_S3Uploader](https://github.com/jakubhalun/SB_S3Uploader)** — Spring Boot application for uploading files to Amazon S3.
 - **[photo-location](https://github.com/jakubhalun/photo-location)** — JavaFX desktop app that matches JPEG photo timestamps against GPS tracks (KML) to determine photo locations.
+- **[kml_route_viewer](https://github.com/jakubhalun/kml_route_viewer)** — Local-only Angular app for visualizing KML GPS tracks on an OpenStreetMap-based map directly in the browser.
 - **[MobileVisionApi-Demo](https://github.com/jakubhalun/MobileVisionApi-Demo)** — Android demo of face detection and landmark detection using Google's Mobile Vision API.
 - **[scripts](https://github.com/jakubhalun/scripts)** — Utility shell scripts for Git (batch pull, branch info) and instructions for common Git workflows.
 - **Byte Buddy — Innovation Showcase 2016** — A set of projects from my talk *Runtime Code Generation with Byte Buddy* (2nd place at Motorola Solutions Innovation Showcase 2016). Note: these use an **old version of Byte Buddy** — the API has changed significantly over the past 10 years.
